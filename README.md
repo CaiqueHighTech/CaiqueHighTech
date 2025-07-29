@@ -49,5 +49,5 @@ Eu me chamo Caique da Conceição Medeiros, de 19 anos, nascido em Salvador, Bah
 
 <p align="left" height="200">
   <img src="https://github-readme-stats.vercel.app/api?username=CaiqueHighTech&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueHighTech&layout=compact&theme=tokyonight&custom_title=Linguagens Usadas&langs_count=8" alt="GitHub Status" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueHighTech&layout=compact&theme=tokyonight&custom_title=LinguagensUsadas&langs_count=8" alt="GitHub Status" />
 </p>
